@@ -1,3 +1,6 @@
 Training/
 .ipynb_checkpoints/
 Test/
+Images/
+Masks/
+exploration.ipynb
